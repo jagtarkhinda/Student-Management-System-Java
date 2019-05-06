@@ -37,6 +37,6 @@
 **Note: The project has comments as needed in all the files to understand the code properly.**
 
 #### Requirements
-- [] As the project is using MySQL databse, you need to download and install sql-connector library from [here](https://dev.mysql.com/downloads/connector/j/5.1.html) to make the connection.
-- [] Create a database with name 'studata' (as defined in file) and then import 'sdata.sql' (given) to create table.
+- [x] As the project is using MySQL databse, you need to download and install sql-connector library from [here](https://dev.mysql.com/downloads/connector/j/5.1.html) to make the connection.
+- [x] Create a database with name 'studata' (as defined in file) and then import 'sdata.sql' (given) to create table.
 
