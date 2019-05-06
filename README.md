@@ -1,4 +1,4 @@
-# Student Management Syste Java
+# Student Management System Java
 #### This repo contains student management system program created using java and Eclipse IDE.
 
 
